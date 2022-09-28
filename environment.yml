@@ -1,0 +1,9 @@
+name: color-by-number
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - ipywidgets
